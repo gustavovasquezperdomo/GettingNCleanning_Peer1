@@ -56,4 +56,4 @@ for (s in 1:numSubjects) {
         }
 }
 
-write.table(result, "GitHub/GettingNCleanning_Peer1/tidy_data.txt")
+write.table(result, "tidy_data.txt")
